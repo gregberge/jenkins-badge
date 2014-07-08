@@ -1,6 +1,6 @@
 {
   "name": "jenkins-badge",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate status badges from Jenkins build.",
   "main": "./bin/jenkins-badge",
   "dependencies": {
