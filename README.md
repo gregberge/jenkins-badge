@@ -22,6 +22,7 @@ npm install jenkins-badge
     -V, --version      output the version number
     -u, --url <url>    Jenkins url (http://user@password:url:port) <url>
     -p, --port [port]  Port (default 2323)
+    --no-strict        Use non-strict SSL
 ```
 
 Then you can include this type of markdown in your page:
